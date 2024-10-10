@@ -1,56 +1,26 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.17" pages="4">
+<mxfile host="Electron" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.4.0 Chrome/126.0.6478.234 Electron/31.4.0 Safari/537.36" modified="2024-10-10T09:23:42.274Z" version="24.3.1" etag="8tzhuKcYA8wZm7Ttr0RX" type="device" pages="4">
   <diagram id="zNMGI6wU0Mi8Qe2H5Q59" name="C4 Context">
-    <mxGraphModel dx="1194" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1221" dy="918" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="jk53wvajYcKSA50TNXrv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeWidth=2;fillColor=#f5f5f5;strokeColor=#666666;" parent="1" target="lnmgxQ-TkLNhtuKLghFE-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="338" y="295" as="sourcePoint" />
-            <mxPoint x="273" y="295" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="jk53wvajYcKSA50TNXrv-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#666666;strokeWidth=2;fillColor=#f5f5f5;" parent="1" source="lnmgxQ-TkLNhtuKLghFE-13" target="lnmgxQ-TkLNhtuKLghFE-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="563" y="295" as="targetPoint" />
-            <mxPoint x="498" y="295" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="lnmgxQ-TkLNhtuKLghFE-10" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;" parent="1" source="lnmgxQ-TkLNhtuKLghFE-11" target="lnmgxQ-TkLNhtuKLghFE-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="258.7027027027027" y="240" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="GE-451ExGiaeum3p-hQv-1" value="&lt;b&gt;Status Dashboard&lt;br&gt;(Context)&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;fontColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="113" y="390" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="lnmgxQ-TkLNhtuKLghFE-9" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;" parent="1" source="lnmgxQ-TkLNhtuKLghFE-3" target="lnmgxQ-TkLNhtuKLghFE-13" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="416.81081081081084" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <object placeholders="1" c4Name="Support Staff" c4Type="Person" c4Description="Monitors the production line" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="lnmgxQ-TkLNhtuKLghFE-3">
+        <object placeholders="1" c4Name="Branch Manager / Librarian" c4Type="Person" c4Description="Manages stock, users &amp; branches&#xa;via the admin panel" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="lnmgxQ-TkLNhtuKLghFE-3">
           <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#08427b;strokeColor=none;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" parent="1" vertex="1">
-            <mxGeometry x="359" y="40" width="110.00000000000001" height="140" as="geometry" />
+            <mxGeometry x="442" y="20" width="110.00000000000001" height="140" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Alert System" c4Type="Software System" c4Description="Sends SMS notifications of problems" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="lnmgxQ-TkLNhtuKLghFE-11">
+        <object placeholders="1" c4Name="Headless Content Management System" c4Type="Software System" c4Description="Website which allows non techincal staff to manage items and users" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="lnmgxQ-TkLNhtuKLghFE-11">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
             <mxGeometry x="113" y="240" width="160" height="110.00000000000001" as="geometry" />
           </mxCell>
         </object>
-        <object placeholders="1" c4Name="Status Dashboard" c4Type="Software System" c4Description="Sensor and machine information indicating production line status" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" link="data:page/id,7UhaJ9ljh7ebol46HkWr" id="lnmgxQ-TkLNhtuKLghFE-13">
+        <object placeholders="1" c4Name="Database" c4Type="Software System" c4Description="User, item &amp; branch data&#xa;Recieves commands from CMS" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" link="data:page/id,7UhaJ9ljh7ebol46HkWr" id="lnmgxQ-TkLNhtuKLghFE-13">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#1168BD;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="334" y="240" width="160" height="110.00000000000001" as="geometry" />
-          </mxCell>
-        </object>
-        <object placeholders="1" c4Name="Data Collection System" c4Type="Software System" c4Description="Monitors and collects data from sensors and PLCs" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="lnmgxQ-TkLNhtuKLghFE-14">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" parent="1" vertex="1">
-            <mxGeometry x="560" y="240" width="160" height="110.00000000000001" as="geometry" />
+            <mxGeometry x="414" y="240" width="166" height="110" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="GGAcaCNyiWMHBxoHMokF-1" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="66" y="440" width="696" height="220" as="geometry" />
+          <mxGeometry x="66" y="630" width="696" height="220" as="geometry" />
         </mxCell>
         <mxCell id="GGAcaCNyiWMHBxoHMokF-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#666666;dashed=1;dashPattern=1 2;fontColor=#666666;" parent="GGAcaCNyiWMHBxoHMokF-1" vertex="1">
           <mxGeometry width="696" height="220" as="geometry" />
@@ -108,6 +78,48 @@
             <mxGeometry width="160" relative="1" as="geometry">
               <mxPoint x="536" y="74.5" as="sourcePoint" />
               <mxPoint x="676" y="74.5" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="Pnael Actions" c4Description="Translates changes&#xa;to database commands" label="&lt;div style=&quot;text-align: left; font-size: 9px;&quot;&gt;&lt;div style=&quot;text-align: center; font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; font-size: 9px;&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="kgG_GNxSqLYQd6pk1VW--3">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};fontSize=9;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lnmgxQ-TkLNhtuKLghFE-11" target="lnmgxQ-TkLNhtuKLghFE-13">
+            <mxGeometry width="160" relative="1" as="geometry">
+              <mxPoint x="273.0000000000002" y="310" as="sourcePoint" />
+              <mxPoint x="469" y="405" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="Admin" c4Description="Interacts with the admin panel" label="&lt;div style=&quot;text-align: left; font-size: 9px;&quot;&gt;&lt;div style=&quot;text-align: center; font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; font-size: 9px;&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="kgG_GNxSqLYQd6pk1VW--9">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};fontSize=9;exitX=0;exitY=0.75;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lnmgxQ-TkLNhtuKLghFE-3" target="lnmgxQ-TkLNhtuKLghFE-11">
+            <mxGeometry width="160" relative="1" as="geometry">
+              <mxPoint x="206" y="100" as="sourcePoint" />
+              <mxPoint x="140" y="220" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Avanced Media Library" c4Type="Software System" c4Description="Website which retrieves content from the database via the CMS" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="kgG_GNxSqLYQd6pk1VW--10">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];" vertex="1" parent="1">
+            <mxGeometry x="720" y="240" width="160" height="110.00000000000001" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="Database Response" c4Description="Provides content" label="&lt;div style=&quot;text-align: left; font-size: 9px;&quot;&gt;&lt;div style=&quot;text-align: center; font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; font-size: 9px;&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="kgG_GNxSqLYQd6pk1VW--11">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};fontSize=9;exitX=1.002;exitY=0.531;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.455;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="lnmgxQ-TkLNhtuKLghFE-13">
+            <mxGeometry width="160" relative="1" as="geometry">
+              <mxPoint x="579" y="389.95" as="sourcePoint" />
+              <mxPoint x="720" y="300.00000000000006" as="targetPoint" />
+            </mxGeometry>
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="Library Member" c4Type="Person" c4Description="Searches, borrows and manages &#xa;own account via the AML website" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="kgG_GNxSqLYQd6pk1VW--12">
+          <mxCell style="html=1;dashed=0;whitespace=wrap;fillColor=#08427b;strokeColor=none;fontColor=#ffffff;shape=mxgraph.c4.person;align=center;metaEdit=1;points=[[0.5,0,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0]];metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" vertex="1" parent="1">
+            <mxGeometry x="442" y="430" width="110.00000000000001" height="140" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Type="Relationship" c4Technology="AML Wesbite" c4Description="Displays interactable content" label="&lt;div style=&quot;text-align: left; font-size: 9px;&quot;&gt;&lt;div style=&quot;text-align: center; font-size: 9px;&quot;&gt;&lt;b style=&quot;font-size: 9px;&quot;&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center; font-size: 9px;&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="kgG_GNxSqLYQd6pk1VW--13">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};fontSize=9;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="kgG_GNxSqLYQd6pk1VW--10" target="kgG_GNxSqLYQd6pk1VW--12">
+            <mxGeometry width="160" relative="1" as="geometry">
+              <mxPoint x="892" y="457" as="sourcePoint" />
+              <mxPoint x="680" y="570" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
