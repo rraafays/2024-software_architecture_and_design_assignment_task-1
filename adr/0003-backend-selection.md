@@ -24,7 +24,7 @@ Currently, AML uses a legacy CMS system which is evident in the case study. This
 
 ## Decision Outcome
 
-Chosen option: Strapi, because it is the only one of the options that is completely free, open source and also its user interface for its admin panel seems to be the most well-thought-out and user-friendly for non-technical users. Additionally, it is able to use a wide range of plugins which will make development much easier than the other options considered.
+Chosen option: Strapi, because it is the only one of the options that is completely free, open source and also its user interface for its admin panel seems to be the most well-thought-out and user-friendly for non-technical users. Additionally, it is able to use a wide range of plugins which will make development much easier than the other options considered. Strapi works with Typescript which ensures for strongly typed code and allows for high code readability. 
 
 ### Consequences
 
