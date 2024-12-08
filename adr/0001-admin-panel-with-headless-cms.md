@@ -5,9 +5,9 @@ title: Replace Legacy CMS
 
 # status: accepted
 # date: 2024-10-01
-# decision-makers: Raf, Veronica, Flinn
-# consulted: Essam, Bassu
-# informed: Essame, Veronica, Raf, Flinn
+# decision-makers: Raf, Veronica,
+# consulted: Essam, Bassu, Rizwana
+# informed: Essame, Veronica, Raf
 ---
 <!-- markdownlint-disable-next-line MD025 -->
 # Headless Content Management System
@@ -36,4 +36,9 @@ This ADR will be confirmed by the success of the system we are architecting for 
 
 ## More Information
 
-Since I personally (Raf). Am experienced with Strapi, it is both a safe and trustworthy bet for our solution system and most importantly it fits the criteria of the client AML perfectly.
+Since we are experienced with Strapi, it is both a safe and trustworthy bet for our solution system and most importantly it fits the criteria of the client AML perfectly.
+
+### References
+
+Nguyen, A. (2022). Building an E-commerce Website Using Next Js, Mantine, and Strapi.
+Messenlehner, B., & Coleman, J. (2019). Building web apps with WordPress: WordPress as an application framework. O'Reilly Media.
