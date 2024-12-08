@@ -1,7 +1,7 @@
 ---
 parent: Decisions
 nav_order: 100
-title: Replace Legacy CMS
+title: Choice of Backend
 
 # status: accepted
 # date: 2024-10-01
@@ -10,7 +10,7 @@ title: Replace Legacy CMS
 # informed: Essame, Veronica, Raf
 ---
 <!-- markdownlint-disable-next-line MD025 -->
-# Headless Content Management System
+# Headless CMS Backend  
 
 ## Context and Problem Statement
 
