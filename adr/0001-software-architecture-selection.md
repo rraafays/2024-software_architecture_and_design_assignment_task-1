@@ -16,8 +16,6 @@ title: Decide on Architecture
 
 AML would like to commission a new system which enables users to search, borrow and return media seamlessly regardless of location as well as allow for a 10% growth in user base annually. This record is to decide what architecture the new system should follow to ensure it can meet these goals.
 
-Currently, AML uses a legacy CMS system which is evident in the case study. This legacy CMS system is a limiting factor for AML. Switching to a headless CMS provides AML with far more options as well as ensuring that they have access to an admin panel without needing to create one from scratch.
-
 ## Considered Options
 
 * Client-Server
