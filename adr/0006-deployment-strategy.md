@@ -17,11 +17,10 @@ title: Deployment Strategy
 In transitioning to a new system, one of the key challenges is ensuring user adoption and retention. Without a strategic deployment plan, users may face difficulties adapting to new interfaces and functionalities. By focusing on user-centric deployment, we can mitigate resistance to change and foster long-term retention.
 
 ## Considered Options
-When considering deployment strategies, it is important to evaluate the goals and constraints of the deployment process. Several common deployment strategies can be considered:
 
-1. **Rolling Deployment**: This strategy involves gradually replacing instances of the application with the new version. It allows for zero downtime and rollback if issues arise. However, it may require additional infrastructure to run multiple versions simultaneously.
-3. **Canary Release**: This strategy involves deploying the new version to a small subset of users before rolling it out to the entire user base. This approach allows for real-world testing and minimizes risk by limiting exposure initially.
-6. **Immutable Infrastructure**: Rebuild and replace infrastructure with each deployment rather than updating existing systems. This ensures consistency and mitigates configuration drift, though it may require more sophisticated infrastructure management.
+* Rolling Deployment
+* Canary Release
+* Immutable Infrastructure
 
 ## Decision Outcome
 
