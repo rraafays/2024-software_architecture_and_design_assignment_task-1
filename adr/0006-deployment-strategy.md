@@ -4,7 +4,7 @@ nav_order: 100
 title: Deployment Strategy
 
 # status: accepted
-# date: 2024-10-01
+# date: 11-11-2024
 # decision-makers: Raf, Veronica,
 # consulted: Essam, Bassu, Rizwana
 # informed: Essame, Veronica, Raf
